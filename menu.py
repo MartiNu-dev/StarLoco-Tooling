@@ -104,7 +104,7 @@ class HelpersToolboxApp(App):
         scripts = sorted(
             path
             for path in self.helpers_dir.rglob("*.py")
-            if path.resolve() != self.current_file and "__pycache__" not in path.parts
+            if path.resolve() != self.current_file and "__pycache__" not in path.parts and "venv" not in path.parts
         )
         return scripts
 
