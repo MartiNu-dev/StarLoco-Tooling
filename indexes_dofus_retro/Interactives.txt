@@ -1,0 +1,190 @@
+7500 - Frêne
+7003 - Scie
+7503 - Chêne
+7011 - Table de confection
+7008 - Atelier
+7009 - Atelier
+7010 - Atelier
+7013 - Etabli
+7000 - Zaap
+7026 - Zaap
+7029 - Zaap
+4287 - Zaap
+7520 - Fer
+7001 - Four
+7526 - Argent
+7527 - Or
+7528 - Pierre de Bauxite
+7002 - Moule
+7505 - If
+7507 - Ebène
+7509 - Orme
+7504 - Erable
+7508 - Charme
+7501 - Châtaignier
+7502 - Noyer
+7506 - Merisier
+7525 - Pierre de Kobalte
+7511 - Blé
+7512 - Houblon
+7005 - Meule
+7513 - Lin
+7515 - Orge
+7516 - Seigle
+7517 - Avoine
+7514 - Chanvre
+7518 - Malt
+7510 - Tas de patates
+7006 - Table à Patates
+7007 - Concasseur
+7521 - Etain
+7522 - Pierre Cuivrée
+7524 - Manganèse
+7523 - Bronze
+7004 - Source de jouvence
+7012 - Enclume
+7014 - Machine à Coudre
+7016 - Machine à Coudre
+7017 - Marmite
+7536 - Edelweiss
+7534 - Menthe Sauvage
+7533 - Trèfle à 5 feuilles
+7535 - Orchidée Freyesque
+6700 - Porte
+6701 - Porte
+6702 - Porte
+6703 - Porte
+6704 - Porte
+6705 - Porte
+6706 - Porte
+6707 - Porte
+6708 - Porte
+6709 - Porte
+6710 - Porte
+6711 - Porte
+6713 - Porte
+6714 - Porte
+6715 - Porte
+6716 - Porte
+6717 - Porte
+6718 - Porte
+6719 - Porte
+6720 - Porte
+6721 - Porte
+6722 - Porte
+6723 - Porte
+6724 - Porte
+6725 - Porte
+6726 - Porte
+6729 - Porte
+6730 - Porte
+6731 - Porte
+6732 - Porte
+6733 - Porte
+6734 - Porte
+6735 - Porte
+6736 - Porte
+6737 - Porte
+6738 - Porte
+6739 - Porte
+6740 - Porte
+6741 - Porte
+6742 - Porte
+6743 - Porte
+6744 - Porte
+6745 - Porte
+6746 - Porte
+6747 - Porte
+6748 - Porte
+6753 - Porte
+6749 - Porte
+6750 - Porte
+6751 - Porte
+6752 - Porte
+6754 - Porte
+6756 - Porte
+6755 - Porte
+6757 - Porte
+6758 - Porte
+6764 - Porte
+6765 - Porte
+6768 - Porte
+6759 - Porte
+6760 - Porte
+6761 - Porte
+6762 - Porte
+6769 - Porte
+6770 - Porte
+4516 - Porte
+6773 - Porte
+6774 - Porte
+6775 - Porte
+6776 - Porte
+7530 - Petits poissons (mer)
+7532 - Poissons (rivière)
+7529 - Petits poissons (rivière)
+7537 - Gros poissons (rivière)
+7531 - Poissons (mer)
+7538 - Gros poissons (mer)
+7539 - Poissons géants (rivière)
+7540 - Poissons géants (mer)
+7519 - Puits
+7350 - Coffre
+7351 - Coffre
+7352 - Coffre
+7353 - Coffre
+7015 - Machine à Coudre
+7018 - Etabli en bois
+7019 - Alambic
+7020 - Enclume magique
+7021 - Concasseur Munster
+7022 - Plan de Travail
+7025 - Plan de travail
+7024 - Plan de Travail
+7023 - Plan de Travail
+7541 - Bombu
+7543 - Ombre étrange
+7544 - Pichon
+7542 - Oliviolet
+7546 - Machine de force
+7547 - Machine de force
+7028 - Etabli Pyrotechnique
+7549 - KoinKoin
+7352 - Poubelle
+7030 - Zaapi
+7031 - Zaapi
+7027 - Enclume à boucliers
+7553 - Bambou
+7554 - Bambou sombre
+7552 - Bambou sacré
+7550 - Riz
+7551 - Pandouille
+7555 - Dolomite
+7556 - Silicate
+7036 - Machine à Coudre Magique
+7038 - Atelier Magique
+7037 - Table Magique
+7035 - Liste des artisans
+6766 - Enclos
+6767 - Enclos
+6763 - Enclos
+6772 - Enclos
+7557 - Kaliptus
+7039 - Atelier de bricolage
+7041 - Levier
+7042 - Levier
+7043 - Levier
+7044 - Levier
+7045 - Levier
+1853 - Statue de classe
+1854 - Statue de classe
+1855 - Statue de classe
+1856 - Statue de classe
+1857 - Statue de classe
+1858 - Statue de classe
+1859 - Statue de classe
+1860 - Statue de classe
+1861 - Statue de classe
+1862 - Statue de classe
+1845 - Statue de classe
+2319 - Statue de classe
